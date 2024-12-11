@@ -1,0 +1,10 @@
+C000001,abc@123,Apple.org,apple@gmail.com
+C000002,123@abc,Google.org,google@gmail.com
+C000003,123,Amezon,amezon@gmail.com
+C000004,123,SLTRADE,ssltrade@gmail.com
+C000005,r123,Rashmi,rash@.com
+C000006,123,ALISP,alisp@gmail.com
+C000007,123@,Sampal Company,sample@gmail.com
+C000008,s44,sample company,sample@.com
+C000009,12,Zapra,zapra@gmail.com
+C000010,123,Alpa,alpa@gmail.com
